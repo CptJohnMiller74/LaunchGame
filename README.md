@@ -4,3 +4,5 @@ The object of the game is to launch the bird as far as possible. The player lose
 
 ***NOTE***
 The store is currently a work in progress. I needed to make a deadline, so I needed to throw something together quickly. I am currently in the process of making it look better. The performance in the emulator is not as good as on a device (delayed audio and increased loading times), and the demo video doesn't have audio.
+
+DEMO VIDEO - https://youtu.be/i9LTQYg83Vo
